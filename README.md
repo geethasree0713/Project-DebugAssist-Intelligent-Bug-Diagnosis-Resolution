@@ -12,7 +12,7 @@
 
 <p><strong>Email ID:</strong>geethamsree9@gmail.com</p>
 
-<p><strong>College Name:</strong> Nitte Meenakshi Institute of Technology, Bengaluru</p>
+
 
 <p><strong>Branch/Specialization:</strong> Information Science Engineering</p>
 
@@ -26,7 +26,7 @@
 
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Course Opted:</strong> Generative AI</p>
+<p><strong>Course Opted:</strong> Generative AI- SURE TRUST</p>
 
 <p><strong>Instructor Name:</strong> prujith ramakrishnan</p>
 
