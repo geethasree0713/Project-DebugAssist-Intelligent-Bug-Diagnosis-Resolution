@@ -42,22 +42,7 @@
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
-## **Table of Contents**
 
-- [Overall Learning](#overall-learning)
-- [Projects Completed](#projects-completed)
-- [Project Introduction](#project-introduction)
-- [How the System Works](#how-the-system-works)
-- [Technologies Used](#technologies-used)
-- [Roles and Responsibilities](#roles-and-responsibilities)
-- [Project Report](#project-report)
-- [Known Limitations](#known-limitations)
-- [Learnings from LST & SST](#learnings-from-lst--sst)
-- [Community Services](#community-services)
-- [Certificate](#certificate)
-- [Acknowledgments](#acknowledgments)
-
----
 
 ## **Overall Learning**
 
@@ -174,93 +159,3 @@ The overall workflow of DebugAssist can be represented as follows:
                            |
                            v
                  Resolution Display
-
-## **Learnings from LST and SST**
-
-The LST and SST sessions provided me with valuable learning beyond the technical aspects of the internship. These sessions helped me improve my communication, presentation, teamwork, and professional skills.
-
-Through these sessions, I learned how to communicate technical ideas clearly, participate actively in discussions, work effectively with others, and approach problems with a structured mindset.
-
-The sessions also improved my confidence in presenting my work and interacting with peers and mentors. These learnings helped me become more comfortable in professional and collaborative environments.
-
----
-
-## **Community Services**
-
-As part of the SURE ProEd internship program, I participated in community-oriented activities that helped me understand the importance of social responsibility and contributing to society.
-
-### **Activities Involved**
-
-- **[Community Activity 1]** – Describe the activity you participated in and your contribution.
-- **[Community Activity 2]** – Describe the activity and how you contributed.
-- **[Community Activity 3]** – Describe the activity and your involvement.
-
-### **Impact / Contribution**
-
-- Contributed actively to the successful completion of the community activities.
-- Developed better communication and coordination skills through participation.
-- Gained a greater understanding of social responsibility and community involvement.
-- Improved teamwork, empathy, and interpersonal skills.
-
-### **Photos**
-
-<!-- Replace the links below with your actual community service photo links -->
-
-<div align="center">
-
-<img src="PUT_YOUR_PHOTO_LINK_HERE" alt="Community Service Photo 1" width="30%">
-
-<img src="PUT_YOUR_PHOTO_LINK_HERE" alt="Community Service Photo 2" width="30%">
-
-<img src="PUT_YOUR_PHOTO_LINK_HERE" alt="Community Service Photo 3" width="30%">
-
-</div>
-=======
-## Project Structure
-
-src/          → application source code (modules, agents)
-data/         → datasets (raw and cleaned)
-notebooks/    → exploration/testing notebooks (chunking, embeddings, retrieval testing)
->>>>>>> c64b3fc (update project):capstone/README.md
-
----
-
-## **Certificate**
-
-The internship certificate serves as an official acknowledgment of my successful participation and completion of the SURE ProEd internship program.
-
-The internship provided me with practical exposure to Generative AI concepts, project development, research, documentation, and professional skills. The certificate represents my participation in the program and the knowledge and experience gained throughout the internship.
-
-### **Internship Certificate**
-
-<!-- Replace the link below with your official certificate image link -->
-
-<p align="center">
-
-<img 
-src="PUT_YOUR_CERTIFICATE_IMAGE_LINK_HERE" 
-alt="SURE ProEd Internship Certificate" 
-width="80%"
->
-
-</p>
-
----
-
-## **Acknowledgments**
-
-I would like to express my sincere gratitude to **SURE ProEd (formerly SURE Trust)** for providing me with the opportunity to participate in the Generative AI internship program.
-
-I am thankful to my trainers and instructors for their continuous guidance, technical support, valuable feedback, and encouragement throughout the internship.
-
-I would also like to thank the SURE ProEd team for providing a platform where I could learn emerging technologies and apply my knowledge to a practical real-world project.
-
-Special thanks to:
-
-- **[Trainer/Mentor Name]** – for technical guidance and mentorship throughout the internship.
-- **[Instructor Name]** – for providing valuable knowledge and support during the training sessions.
-- **SURE ProEd Team** – for providing the learning environment and project opportunities.
-- **My College Faculty** – for their encouragement and support.
-- **My Peers and Team Members** – for their collaboration, discussions, and feedback.
-
-I am grateful for this experience, which helped me strengthen my technical knowledge, professional skills, and confidence in working on real-world Generative AI applications.
