@@ -109,9 +109,6 @@ The historical defects are processed and converted into embeddings so that a new
 
 The retrieved historical defects provide additional context that can help the system analyze the current issue and generate more relevant findings and possible resolutions.
 
----
-
-<<<<<<< HEAD:Creation-of-Intelligent-Bug-Diagnosis-Platform-with-Fix-Recommendation-Assistance-Group-1-main/README.md
 ## **How the System Works**
 
 The overall workflow of DebugAssist can be represented as follows:
